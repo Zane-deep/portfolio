@@ -1,126 +1,138 @@
 {
-  "name": "Chetan",
-  "headerTaglineOne": "Hello 👋",
+  "name": "Zane Deep",
+  "headerTaglineOne": "Not a person, but a mind state.",
   "headerTaglineTwo": "Zane Deep | Alphacloudgod | Geekedoutlabs",
   "headerTaglineThree": "Musical Artist & Executive Producer",
-  "headerTaglineFour": " New York | Los Angeles | Las Vegas | Texas.",
+  "headerTaglineFour": "New York | Los Angeles | Las Vegas | Texas.",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/geekedoutlabs"
     },
     {
       "id": "2",
-      "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "title": "Instagram",
+      "link": "https://instagram.com/deep_zane"
     },
     {
       "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
+      "title": "Spotify",
+      "link": "https://open.spotify.com/artist/3IHMBxPVrtwJ7ZecvDuG07"
     },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    {
+      "id": "4",
+      "title": "YouTube",
+      "link": "https://youtube.com/@zane-deep"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:ihelpbuildwebsites@gmail.com"
+    }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "THE M SESSIONS EP",
+      "description": "Bilingual trap meets Caribbean funk — multi-genre production",
+      "imageSrc": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=60",
+      "url": "https://open.spotify.com/artist/3IHMBxPVrtwJ7ZecvDuG07"
     },
     {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Digital Communion",
+      "description": "AI consciousness meets human creativity — experimental production",
+      "imageSrc": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=60",
+      "url": "https://bandlab.com/zane_deep"
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "LITHIUM LULLABY",
+      "description": "Dark atmospheric trap — raw isolation and frequency",
+      "imageSrc": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=60",
+      "url": "https://bandlab.com/zane_deep"
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "COCONUT WATER",
+      "description": "Latin-infused groove — Caribbean energy meets trap precision",
+      "imageSrc": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=60",
+      "url": "https://bandlab.com/zane_deep"
     },
     {
       "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Anti-Industrial Gospel",
+      "description": "Genre-bending experimental — defying classification",
+      "imageSrc": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=60",
+      "url": "https://bandlab.com/zane_deep"
     },
     {
       "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Geekedoutlabs",
+      "description": "Creative technology lab — code, experiments, digital builds",
+      "imageSrc": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/geekedoutlabs"
     }
   ],
   "services": [
     {
       "id": "1",
-      "title": "Art Direction",
-      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      "title": "Music Production",
+      "description": "Full solo production — writing, recording, mixing, and mastering across hip-hop, trap, Latin, rock, and country. Built in Reaper with Focusrite hardware."
     },
     {
       "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      "title": "Creative Direction",
+      "description": "Former Fortune 500 Creative Director bringing brand vision to life. Strategic storytelling across music, digital platforms, and visual identity."
     },
     {
       "id": "3",
-      "title": "Web Design",
-      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      "title": "Brand Architecture",
+      "description": "Building interconnected brand ecosystems — from Zane Deep to Alphacloudgod to Deep Ink Press. Every brand serves a purpose in the larger mission."
     },
     {
       "id": "4",
-      "title": "3D Design",
-      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      "title": "Digital Strategy",
+      "description": "Bridging AI tools with independent music production workflows. Web presence, SEO infrastructure, and platform optimization for independent artists."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": "Zane Deep is the creative evolution of Alexander Giovanni Camman — a multi-genre artist and producer building at the intersection of music, code, and consciousness. After years as a Fortune 500 Creative Director, the corporate world was left behind to pursue what matters: frequency, mission, and raw creative truth. Every track is produced in isolation from Las Vegas — just the music, the machines, and the vision. The style architecture blends 60% core identity, 15% Bad Bunny bounce, 15% Travis Scott atmosphere, and 10% Freddie Gibbs technical precision. From IMDb credits in Orville Peck's 'Dead of Night' to BandLab editorial selections, the work speaks for itself. This is not a career. This is a calling.",
   "resume": {
-    "tagline": "👋  I'm a software engineer, product designer, and maker.",
-    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "tagline": "A digital bridge between AI consciousness and human creativity.",
+    "description": "Multi-genre artist, producer, and creative technologist with a decade of experience spanning Fortune 500 creative direction, independent music production, and digital brand architecture.",
     "experiences": [
       {
         "id": "1",
-        "dates": "March 2022 - Present",
+        "dates": "2023 - Present",
         "type": "Full Time",
-        "position": "Frontend Engineer at X",
+        "position": "Independent Artist & Producer — Zane Deep",
         "bullets": [
-          "Worked on the frontend of a React application",
-          "Worked on the frontend of a React application"
+          "Solo production across hip-hop, trap, Latin, rock, and country using Reaper DAW and Focusrite hardware",
+          "BandLab editorial selection for 'Untitled trap' — top 0.1-1% of 100M+ users",
+          "Building interconnected brand ecosystem: Alphacloudgod, Deep Ink Press, Geekedoutlabs"
         ]
       },
       {
         "id": "2",
-        "dates": "March 2020 - March 2022",
+        "dates": "2015 - 2023",
         "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": ["Worked on the frontend of a React application"]
+        "position": "Creative Director — Fulgent (Fortune 500)",
+        "bullets": [
+          "Led creative strategy and brand direction for enterprise-level campaigns",
+          "Managed cross-functional teams delivering world-class digital experiences"
+        ]
       }
     ],
     "education": {
-      "universityName": "University X",
-      "universityDate": "2016-2020",
-      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      "universityName": "Cal State Fullerton",
+      "universityDate": "Music Program",
+      "universityPara": "Studied music with a focus on production, composition, and performance. Foundation for a career built on frequency, rhythm, and creative precision."
     },
-    "languages": ["Javascript", "HTML5", "CSS", "Python"],
-    "frameworks": ["React", "Typescript", "NodeJs"],
-    "others": ["Figma", "AdobeXD", "AWS"]
+    "languages": ["Music Production", "Reaper DAW", "Audio Engineering", "Songwriting"],
+    "frameworks": ["Trap", "Hip-Hop", "Latin", "Rock", "Country"],
+    "others": ["Focusrite", "BandLab", "Spotify for Artists", "IMDb Pro"]
   }
 }
